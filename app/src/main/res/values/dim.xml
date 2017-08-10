@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="withButton">100dp</dimen>
+    <dimen name="heightButton">70dp</dimen>
+</resources>
